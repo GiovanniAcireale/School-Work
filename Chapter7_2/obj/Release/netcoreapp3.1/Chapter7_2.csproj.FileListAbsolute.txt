@@ -1,0 +1,14 @@
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.Form1.resources
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.csproj.GenerateResource.cache
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.AssemblyInfoInputs.cache
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.AssemblyInfo.cs
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.csproj.CoreCompileInputs.cache
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.exe
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.deps.json
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.runtimeconfig.json
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.runtimeconfig.dev.json
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.dll
+C:\Users\Gio\source\repos\Chapter7_2\bin\Release\netcoreapp3.1\Chapter7_2.pdb
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.dll
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.pdb
+C:\Users\Gio\source\repos\Chapter7_2\obj\Release\netcoreapp3.1\Chapter7_2.genruntimeconfig.cache

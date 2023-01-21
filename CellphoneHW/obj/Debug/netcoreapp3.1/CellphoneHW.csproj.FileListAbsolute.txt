@@ -1,0 +1,16 @@
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.exe
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.deps.json
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.runtimeconfig.json
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.runtimeconfig.dev.json
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.dll
+C:\Users\Gio\source\repos\CellphoneHW\bin\Debug\netcoreapp3.1\CellphoneHW.pdb
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.Form1.resources
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.csproj.GenerateResource.cache
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.AssemblyInfoInputs.cache
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.AssemblyInfo.cs
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.csproj.CoreCompileInputs.cache
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.dll
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.pdb
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.genruntimeconfig.cache
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.csproj.AssemblyReference.cache
+C:\Users\Gio\source\repos\CellphoneHW\obj\Debug\netcoreapp3.1\CellphoneHW.GeneratedMSBuildEditorConfig.editorconfig
